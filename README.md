@@ -1,3 +1,3 @@
 # ALX-System_Engineering-Devops
 
-This Repo contains projects on DevOp
+This Repo contains projects on DevOps
