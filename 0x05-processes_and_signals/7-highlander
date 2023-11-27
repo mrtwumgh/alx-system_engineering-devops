@@ -4,7 +4,7 @@
 # with a sleep 2 in between each iteration
 # I am invincible!!! when receiving SIGTERM signal
 
-msg="I am invisible!!!"
+msg="I am invincible!!!"
 
 trap 'echo $msg' SIGTERM
 
